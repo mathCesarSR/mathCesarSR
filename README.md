@@ -1,4 +1,4 @@
-### Hello! I'm a junior programmer taking my first steps in the technology fie ld
+### Hello! I'm a junior programmer taking my first steps in the technology field
 
 - 🔭 I'am currently not working in the area;
 - 🏫 I'am going to college of Analysis and Systems Sevelopment;
